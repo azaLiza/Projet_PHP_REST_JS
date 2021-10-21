@@ -24,3 +24,12 @@ que ce soit.
 selon diff´erents crit`eres (genres, ann´ees, artistes, etc.)
 
 — Utilisez un th`eme responsive
+
+
+
+Etapes à suivre :
+
+- Créer le modèle de bd.
+- Remplire la BD.
+- Coder l'interface 
+- Rajouter au fur et à mesure les différentes méthodes.
